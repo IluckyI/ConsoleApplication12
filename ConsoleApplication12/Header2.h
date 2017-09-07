@@ -252,7 +252,7 @@ void deleteRecord(Nodeptr *header)
 			pCurNode = pCurNode->next;
 			if (pCurNode == NULL)
 			{
-				printf("no find this info!\n");
+				printf("no find this info!£¡£¡£¡\n");
 				return;
 			}
 
